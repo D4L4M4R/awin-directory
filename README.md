@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Directorio de tiendas online</title>
 </head>
 <body>
   <h1>Directorio de tiendas online</h1>
